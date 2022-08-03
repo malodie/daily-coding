@@ -15,3 +15,7 @@ Bonus: Can you do this in one pass?
 #Write compare function
 #Run the compare
 ```
+# Time Taken
+20 min
+# Notes
+Did not attempt single pass, but want to revisit
