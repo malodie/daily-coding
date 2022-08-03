@@ -7,5 +7,11 @@ Bonus: Can you do this in one pass?
 ```
 # Pseudocode
 ```
-
+#Create a list of numbers
+#Create a variable k
+#Set k equal to a number
+#Write add function
+#Randomly get two numbers from the list and add them
+#Write compare function
+#Run the compare
 ```
